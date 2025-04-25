@@ -27,18 +27,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="shilpy-pathak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="shilpy-pathak" />
-</p>
-
----
+/
 
 ### 🔗 LeetCode Profile
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo&extension=activity)](https://leetcode.com/your-leetcode-username)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pathak_shilpy?theme=dark&font=Baloo&extension=activity)](https://leetcode.com/pathak_shilpy/)
+
 
 ---
 
