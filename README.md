@@ -9,9 +9,8 @@
 
 🌱 I’m currently working on  **web devlopment andServlet-based Web Applications**  
 💻 I love building **Java-based backend projects**  
-👨‍💻 Most of my projects are available at [My GitHub](https://github.com/your-username)  
-🧠 Currently learning **Spring Boot and MySQL integration**  
-📫 Reach me at: **shilpypathak@example.com**  
+👨‍💻 Most of my projects are available at [My GitHub](https://github.com/your-username)   
+📫 Reach me at: **shilpypathak931@example.com**  
 💡 Fun fact: I love solving algorithmic challenges on LeetCode!  
 
 ---
