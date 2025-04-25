@@ -7,7 +7,7 @@
 
 ---
 
-🌱 I’m currently working on web devlopment **Servlet-based Web Applications**  
+🌱 I’m currently working on  **web devlopment andServlet-based Web Applications**  
 💻 I love building **Java-based backend projects**  
 👨‍💻 Most of my projects are available at [My GitHub](https://github.com/your-username)  
 🧠 Currently learning **Spring Boot and MySQL integration**  
