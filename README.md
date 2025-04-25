@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shilpy Pathak</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
@@ -7,7 +7,7 @@
 
 ---
 
-🌱 I’m currently working on **Servlet-based Web Applications**  
+🌱 I’m currently working on web devlopment **Servlet-based Web Applications**  
 💻 I love building **Java-based backend projects**  
 👨‍💻 Most of my projects are available at [My GitHub](https://github.com/your-username)  
 🧠 Currently learning **Spring Boot and MySQL integration**  
